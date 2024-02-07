@@ -1,1 +1,1 @@
-console.log("executando o teste js")
+console.log("executando o teste js");
